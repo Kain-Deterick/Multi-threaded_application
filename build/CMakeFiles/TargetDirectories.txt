@@ -1,0 +1,8 @@
+/home/kain/infotecs/build/CMakeFiles/edit_cache.dir
+/home/kain/infotecs/build/CMakeFiles/rebuild_cache.dir
+/home/kain/infotecs/build/proga_1/CMakeFiles/proga_1_client.dir
+/home/kain/infotecs/build/proga_1/CMakeFiles/edit_cache.dir
+/home/kain/infotecs/build/proga_1/CMakeFiles/rebuild_cache.dir
+/home/kain/infotecs/build/proga_2/CMakeFiles/proge_2_server.dir
+/home/kain/infotecs/build/proga_2/CMakeFiles/edit_cache.dir
+/home/kain/infotecs/build/proga_2/CMakeFiles/rebuild_cache.dir

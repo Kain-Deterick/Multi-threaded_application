@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/proge_2_server.dir/sources/main.cpp.o -o /home/kain/infotecs/proga_2/bin/proga_2/proge_2_server 

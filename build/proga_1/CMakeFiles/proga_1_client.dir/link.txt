@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/proga_1_client.dir/sources/main.cpp.o -o /home/kain/infotecs/proga_1/bin/proga_1/proga_1_client 
